@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "title" : "Home of Application",
+        "imageSrc" : "home.png"
+    },
+    {
+        "id": "2",
+        "title" : "Detail of Application",
+        "imageSrc" : "detail.png"
+    },
+    {
+        "id" : "3",
+        "title" : "Map of Event",
+        "imageSrc" : "map.png"
+    }
+]
